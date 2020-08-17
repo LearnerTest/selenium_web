@@ -14,7 +14,7 @@ public class SeleniumOne {
     }
 
     public void GetElement(){
-        driver.get
+        driver.find
     }
     public static void main(String[] args) throws InterruptedException {
 
